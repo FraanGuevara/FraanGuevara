@@ -14,4 +14,4 @@ STATS | <h3 align="left">Connect with me:</h3>
 <br><h3>Profile Views : </h3><br>
   <img src="https://profile-counter.glitch.me/FraanGuevara/count.svg" />
   <br>
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100%">
