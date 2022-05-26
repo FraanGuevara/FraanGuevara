@@ -47,7 +47,7 @@
 ### **STATS**
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fraanguevara&theme=highcontrast&show_icons=true&locale=en" alt="fraanguevara" /> | 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fraanguevara&theme=highcontrast&show_icons=true&locale=en" alt="fraanguevara" />
 
 <hr>
 <br>
