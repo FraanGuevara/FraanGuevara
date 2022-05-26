@@ -1,12 +1,10 @@
 **<h1 align="center">Hi 👋, I'm Franco Guevara <img src="https://roc21cdn-roc21.netdna-ssl.com/blog/wp-content/uploads/2020/01/iconos-animados-3.gif" alt="figma" width="40" height="40"/></h1>**
 
-## **About me 🙋🏻‍♂️**
+### **About me 🙋🏻‍♂️**
 
 - 📚  I'm studying to become a full stack developer [MERN], I discovered that what I like the most, programming , and I'm developing my skills. 
-<br>
 
 - 💻  Open to listen to job offers . 
-<br>
 
 - 📝  Look at my [Curriculum Vitae](https://drive.google.com/file/d/17ujoK2ON_o92_oyyAR6yIcAK7d0zpemo/view?usp=sharing) for more info. 
 
