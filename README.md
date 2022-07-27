@@ -2,7 +2,7 @@
 
 ### **About me 🙋🏻‍♂️**
 
-- 📚  I'm studying to become a full stack developer [MERN], I discovered that what I like the most, programming , and I'm developing my skills. 
+- 📚  I'm studying to become a full stack developer, I discovered that what I like the most, programming , and I'm developing my skills. 
 
 - 💻  Open to listen to job offers . 
 
