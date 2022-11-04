@@ -17,7 +17,6 @@
 
 <p align="left"><a href="https://www.linkedin.com/in/fraanguevara/" target="blank">
 <img align="center" src="https://img.icons8.com/color/2x/linkedin-2--v2.gif" alt="https://www.linkedin.com/in/fraanguevara/" height="40" width="40" /></a>
-<a href="https://www.instagram.com/fraan.guevara/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new--v2.gif" alt="https://www.instagram.com/fraan.guevara/" height="40" width="40" /></a>
 </p>
 <br>
 
