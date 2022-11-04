@@ -51,8 +51,3 @@
 <hr>
 <br>
 
-### **Profile Views :**
-<br>
-  <img src="https://profile-counter.glitch.me/FraanGuevara/count.svg" />
-  <br>
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100%">
